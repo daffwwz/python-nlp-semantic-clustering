@@ -48,5 +48,3 @@ Each item represents one semantic cluster and shows how often similar questions 
 | 13 | **Why do you think this program is a good fit for you?** | 6 |
 | 14 | **What have you been reading recently?** | 5 |
 | 15 | **What questions do you have for me?** | 4 |
-
-### 📝 Notes
