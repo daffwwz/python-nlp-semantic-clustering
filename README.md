@@ -14,7 +14,7 @@ It includes:
 
 All interview questions are converted into dense vector representations using the `all-MiniLM-L6-v2` model from the sentence-transformers library.
 
-**2.Clustering**
+**2. Clustering**
 
 The sentence embeddings are grouped using the KMeans clustering algorithm, where semantically similar questions are placed in the same cluster.
 
