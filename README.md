@@ -1,4 +1,6 @@
 # python-nlp-semantic-clustering
+## Background
+My gf just told me she will have a graduate admission interview for her master's degree soon (yay).
 
 ## Project Overview
 This repository contains a complete pipeline for collecting, organizing, and analyzing frequently asked interview questions using NLP techniques.
@@ -48,3 +50,6 @@ Each item represents one semantic cluster and shows how often similar questions 
 | 13 | **Why do you think this program is a good fit for you?** | 6 |
 | 14 | **What have you been reading recently?** | 5 |
 | 15 | **What questions do you have for me?** | 4 |
+
+## Note
+The representation and clustering still to general, better vary the n_clusters or use another method for comparison.
