@@ -1,5 +1,5 @@
-# Natural Language Processing for Analyzing The Most Frequent Graduate Admission Interview Questions
-## Background
+# Natural Language Processing (NLP) for Analyzing The Most Frequent Graduate Admission Interview Questions based on Semantic Similarity
+## Background Project
 My gf just told me she will have a graduate admission interview for her master's degree soon (yay).
 
 ## Project Overview
